@@ -8,7 +8,7 @@ function _init()
     gravity = 0.3
     friction = 0.85
     -- position, size, velocity
-    p = Player:new(Vector:new(59, 59), Vector:new(2, 3), Vector:new(0, 0))
+    p = Player:new(59, 59, 8, 8, 0, 0)
 end
 
 function _update()

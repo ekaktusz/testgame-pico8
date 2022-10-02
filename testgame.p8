@@ -2,8 +2,8 @@ pico-8 cartridge // http://www.pico-8.com
 version 38
 __lua__
 #include include/log.lua
-#include include/vector.lua
 #include include/entity.lua
+
 #include include/player.lua
 #include include/main.lua
 __gfx__

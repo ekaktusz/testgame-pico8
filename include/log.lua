@@ -1,3 +1,3 @@
 function log(message)
-    printh(message, "testgame/log.txt")
+    printh(message, "log.txt")
 end
